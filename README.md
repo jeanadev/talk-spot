@@ -8,3 +8,7 @@
 
 ## Ideas
 * [New Manager Toolkit](/SoftSkills/NewManagerToolkit.md)
+
+
+
+*Thanks to @mercedesb for inspiring this repo as I prepare for my first talk*
