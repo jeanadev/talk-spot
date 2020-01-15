@@ -1,0 +1,2 @@
+# talk-spot
+Talk Ideas
