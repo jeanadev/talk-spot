@@ -11,4 +11,4 @@
 
 
 
-*Thanks to @mercedesb for inspiring this repo as I prepare for my first talk*
+*Thanks to [@mercedesb](https://github.com/mercedesb) for inspiring this repo as I prepare for my first talk*
