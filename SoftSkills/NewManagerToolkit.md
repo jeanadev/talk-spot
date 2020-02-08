@@ -44,4 +44,13 @@ away with?
 - ...
 
 ## Resources
+- https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit
+- https://twitter.com/brosandprose/status/1202762015095377920
+- https://officevibe.com/state-employee-engagement?utm_source=slideshare&utm_medium=social&utm_campaign=challenges-every-fist-time-manager-will-face&utm_content=state-of-engagement
+- https://www.e-helium.com/blog/the-first-time-managers-path-to-success/
+- https://www.kenblanchard.com/KBCPublic/media/PDF/First-time-Manager-eBook-MK0814.pdf
+- https://hr.harvard.edu/files/humanresources/files/engagement_toolkit_leaders_managers.pdf
+- https://www.clearlink.com/blog/the-essential-first-time-managers-toolkit/
+- https://www.inc.com/melissa-lamson/5-success-strategies-for-first-time-managers.html
+- https://www.ccl.org/wp-content/uploads/2015/04/UnderstandingLeadershipChallenges.pdf
 
