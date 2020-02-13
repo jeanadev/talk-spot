@@ -24,7 +24,7 @@ If you're a first time manager, if you want to be a manager, if you want to impr
 What will the audience get out of this talk? What do I want them to come
 away with?
 
-- So many times individual contributors rise to the ranks of leadership, and are made managers without much training, coaching or mentorship. How do you navigate becoming the managers of your peers? How do you keep your sanity? How do you grow in your own career while supporting both your team and your company? Through sharing about my first three years of [no training] management, hopefully you can learn a few things that will give you guidance, reassurance, and TOOLS to go back to work next week feeling energized and equipped.
+- So many times individual contributors rise to the ranks of leadership, and are made managers without much training, coaching or mentorship. How do you navigate becoming the managers of your peers? How do you keep your manage your stress? How do you grow in your own career while supporting both your team and your company? Through sharing about my first three years of [no training] management, hopefully you can learn a few things that will give you guidance, reassurance, and tools go back to work next week feeling energized and equipped.
 
 
 ## Outline
@@ -35,6 +35,12 @@ away with?
 
 ## Abstract
 
+Individual contributors often rise through the ranks of leadership, and are made managers without much training, coaching or mentorship. How do you navigate becoming the managers of your peers? How do you manage your stress? How do you grow in your own career while supporting both your team and your company? What are one on one's? What if my boss doesn't agree with my management style? 
+
+In this talk, I'll share about my first three years of management and how well that didn't go, But I'll spend most of my time sharing with you the big turn around my team had in 2019 once I implemented simple tools and communication strategies. You'll walk away with resources, tools, and guidance you can begin to put into practice as soon as THAT conference ends.
+
+
+
 
 ## Submitted to
 - ...
@@ -43,7 +49,7 @@ away with?
 ## Given at
 - ...
 
-## Resources
+## Resources for managers
 - https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit
 - https://twitter.com/brosandprose/status/1202762015095377920
 - https://officevibe.com/state-employee-engagement?utm_source=slideshare&utm_medium=social&utm_campaign=challenges-every-fist-time-manager-will-face&utm_content=state-of-engagement
@@ -54,3 +60,5 @@ away with?
 - https://www.inc.com/melissa-lamson/5-success-strategies-for-first-time-managers.html
 - https://www.ccl.org/wp-content/uploads/2015/04/UnderstandingLeadershipChallenges.pdf
 
+## Resources on speaking
+- https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32
