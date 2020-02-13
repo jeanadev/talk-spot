@@ -42,9 +42,17 @@ away with?
 
 ## Abstract
 
-Individual contributors often rise through the ranks of leadership, and are made managers without much training, coaching or mentorship. How do you navigate becoming the managers of your peers? How do you manage your stress? How do you grow in your own career while supporting both your team and your company? What are one on one's? What if my boss doesn't agree with my management style? 
+It’s common for folks to be made managers without much training or mentorship, leaving them with all sorts of questions.
 
-In this talk, I'll share about my first three years of management and how well that didn't go. But I'll spend most of my time sharing with you the big turn around my team had in 2019 once I implemented simple tools and communication strategies. You'll walk away with resources, tools, and guidance you can begin to put into practice as soon as THAT conference ends.
+- How do you navigate becoming the managers of your peers?
+- How do you manage your stress?
+- How do you grow in your own career while supporting both your team and your company?
+- What are one-on-ones?
+- What if my boss doesn't agree with my management style? 
+
+I'll share about how well my first three years of management didn't go. But I'll spend most of my time sharing with you the big turnaround my team had in 2019 once I implemented simple tools and communication strategies. You'll walk away with resources, tools, and guidance you can begin to put into practice as soon as THAT conference ends.
+
+After the session, let’s get together for an Open Space and continue the conversation.
 
 
 
@@ -66,6 +74,7 @@ In this talk, I'll share about my first three years of management and how well t
 - https://www.clearlink.com/blog/the-essential-first-time-managers-toolkit/
 - https://www.inc.com/melissa-lamson/5-success-strategies-for-first-time-managers.html
 - https://www.ccl.org/wp-content/uploads/2015/04/UnderstandingLeadershipChallenges.pdf
+- https://twitter.com/CCLdotORG/status/1226511323531489280
 
 ## Resources on speaking
 - https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32
