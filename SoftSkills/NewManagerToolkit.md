@@ -28,7 +28,14 @@ away with?
 
 
 ## Outline
-
+1. Background
+2. Setup - Individual contributor/promoted/team/no training.
+3. Big Three
+   1. One-on-One's
+   2. "Painting Done" / setting expectations
+   3. Something else
+4. Wrap-up
+5. Q&A
 
 ## Description
 
@@ -37,7 +44,7 @@ away with?
 
 Individual contributors often rise through the ranks of leadership, and are made managers without much training, coaching or mentorship. How do you navigate becoming the managers of your peers? How do you manage your stress? How do you grow in your own career while supporting both your team and your company? What are one on one's? What if my boss doesn't agree with my management style? 
 
-In this talk, I'll share about my first three years of management and how well that didn't go, But I'll spend most of my time sharing with you the big turn around my team had in 2019 once I implemented simple tools and communication strategies. You'll walk away with resources, tools, and guidance you can begin to put into practice as soon as THAT conference ends.
+In this talk, I'll share about my first three years of management and how well that didn't go. But I'll spend most of my time sharing with you the big turn around my team had in 2019 once I implemented simple tools and communication strategies. You'll walk away with resources, tools, and guidance you can begin to put into practice as soon as THAT conference ends.
 
 
 
